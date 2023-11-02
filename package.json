@@ -9,7 +9,5 @@
   "scripts": {
     "format": " prettier . --write"
   },
-  "dependencies": {
-    "typescript": "^5.1.6"
-  }
+  "dependencies": {}
 }

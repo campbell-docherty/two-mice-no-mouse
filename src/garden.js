@@ -1,4 +1,4 @@
-// run this file by typing `node garden.js` in the terminal
+// run this file by typing `node src/garden.js` in the terminal
 // the function here is hidden in the plants, search the file for the word 'garden' to find it. Remember you can use esc to exit search mode
 // 🌱
 // 🌱
@@ -452,10 +452,10 @@
 // 🌱
 import fs from "fs";
 
-const file_path = "manifesto.txt";
+const file_path = "src/manifesto.txt";
 
 const garden = () => {
-  throw new Error("Lost in the weeds"); // delete me to read the manifesto
+  // throw new Error("Lost in the weeds"); // delete me to read the manifesto
   fs.readFile(file_path, "utf8", (err, data) => {
     if (err) {
       console.error(err);

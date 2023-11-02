@@ -8,7 +8,7 @@ export const fridgeContents = {
   milk: "semi skimmed",
   eggs: "free range",
   cheese:
-    "full of mouse bites, there are crumbs of cheese leading from the fridge to the garden",
+    "full of mouse bites, there are crumbs of cheese leading from the fridge to the garden.js",
   butter: "salted",
   beer: "craft",
 };

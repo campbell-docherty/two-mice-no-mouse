@@ -30,6 +30,11 @@
       "mac": "space"
     }
   },
+  "Sort and clean imports": {
+    "vscode": {
+      "mac": "⌘⇧O"
+    }
+  },
   "Rename file": {
     "vscode": {
       "mac": "enter"

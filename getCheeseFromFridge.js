@@ -1,3 +1,8 @@
+// these imports aren't used, clean them up in one command
+import fs from "fs";
+import crypto from "crypto";
+import dgram from "dgram";
+
 // add tasty before all the keys e.g. tastymilk
 export const fridgeContents = {
   milk: "semi skimmed",

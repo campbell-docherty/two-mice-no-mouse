@@ -31,7 +31,7 @@ Duplicate whole block without using clipboard
 Move line up and down
 Rename variable
 Select all of variable
-Duplicate cursor to new line
+Duplicate cursor to new line cmd opt down
 Split editor
 Open and close terminal
 }

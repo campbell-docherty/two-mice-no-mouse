@@ -1,37 +1,69 @@
 {
-    "Navigate back": {
-        "vscode": {
-            "mac": "⌃-"
-        }
-    },
-    "Navigate forward": {
-        "vscode": {
-            "mac": "⌃⇧-"
-        }
-    },
-    "Open terminal": {
-        "vscode": {
-            "mac": "⌃`"
-        }
-    },
-"Open command palette": {"vscode": {"mac": "cmd+shift+p"}},
-Open file
-Open file explorer, focus file explorer, select file from file explorer
-Search for given string
-Extract method
-Extract constant
-Search file and exit search at variable
-Move function to new file
-Navigate to previous file
-Navigate to definition
-Delete/Copy whole line
-Select whole line
-Select word
-Duplicate whole block without using clipboard
-Move line up and down
-Rename variable
-Select all of variable
-Duplicate cursor to new line cmd opt down
-Split editor
-Open and close terminal
+  "Navigate back": {
+    "vscode": {
+      "mac": "⌃-"
+    }
+  },
+  "Navigate forward": {
+    "vscode": {
+      "mac": "⌃⇧-"
+    }
+  },
+  "Open terminal": {
+    "vscode": {
+      "mac": "⌃`"
+    }
+  },
+  "Open command palette": { "vscode": { "mac": "cmd+shift+p" } },
+  "Open file": {
+    "vscode": {
+      "mac": "cmd+p"
+    }
+  },
+  "Open file explorer": {
+    "vscode": {
+      "mac": "⌘⇧E"
+    }
+  },
+  "Open file from file explorer": {
+    "vscode": {
+      "mac": "space"
+    }
+  },
+  "Rename file": {
+    "vscode": {
+      "mac": "enter"
+    }
+  },
+  "Delete file": {
+    "vscode": {
+      "mac": "cmd+delete"
+    }
+  },
+  "Open refactor options": {
+    "vscode": {
+      "mac": "⌘."
+    }
+  },
+
+  "Search file": {
+    "vscode": {
+      "mac": "⌘F"
+    }
+  },
+  "Navigate to definition": {
+    "vscode": {
+      "mac": "F12"
+    }
+  },
+  "Rename variable": {
+    "vscode": {
+      "mac": "F2"
+    }
+  },
+  "Duplicate cursor": {
+    "vscode": {
+      "mac": "⌥⌘↑/↓"
+    }
+  }
 }

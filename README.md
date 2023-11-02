@@ -32,8 +32,8 @@ There are some keyboard shortcuts here but also a guide on how to setup a keymap
 
 I would strongly recommend setting up a keymap to VSCode keys or this will be difficult:
 
-- cmd, to open up the settings
+- `cmd,` to open up the settings
 - Search for keymap
 - Click get more keymaps
 - Search for VSCode Keymap and install it
-- Head back to step 2 and you should now be able to select the VSCode keymap
+- Head back to step 2 and you should now be able to select the VSCode (macOS) keymap

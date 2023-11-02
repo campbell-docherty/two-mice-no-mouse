@@ -1,11 +1,11 @@
-// Run this file by typing `node firstEyeWitness.js` in the terminal the solve the issues and refactor the code
+// Run this file by typing `node src/firstEyeWitness.js` in the terminal the solve the issues and refactor the code
 
 // Move this function to a new file, you may need to manually import it after you move it :(
 const createWitness = (name) => {
   // Remove {} from this function
   return {
     name,
-    statement: "I saw the mice stealing cheese from the fridge",
+    statement: "I saw the mice stealing cheese from the fridge.js",
   };
 };
 

@@ -1,4 +1,4 @@
-// run this file by typing `node fridge.js` in the terminal
+// run this file by typing `node src/fridge.js` in the terminal
 import { getCheeseFromFridge, fridgeContents } from "./getCheeseFromFridge.js";
 
 const checkFridgeForEvidenceOfMice = () => {

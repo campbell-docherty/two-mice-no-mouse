@@ -19,3 +19,21 @@ Open the terminal and run yarn.
 Close the terminal again, you won't need it for a little bit.
 
 Go to the `firstEyeWitness.ts` file (for an extra challenge, try to navigate using your file explorer).
+
+## Additional help
+
+### VSCode
+
+This list of default keyboard shortcuts could be really useful. https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_keyboard-reference-sheets
+
+### Webstorm
+
+There are some keyboard shortcuts here but also a guide on how to setup a keymap: https://www.jetbrains.com/help/webstorm/mastering-keyboard-shortcuts.html#choose-keymap
+
+I would strongly recommend setting up a keymap to VSCode keys or this will be difficult:
+
+- cmd, to open up the settings
+- Search for keymap
+- Click get more keymaps
+- Search for VSCode Keymap and install it
+- Head back to step 2 and you should now be able to select the VSCode keymap

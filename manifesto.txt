@@ -21,3 +21,5 @@ I have these in there
     "command": "explorer.newFile" // create new file in explorer
   }
 ]
+
+🔥Burn after reading (delete the manifesto.txt and then you're done!)🔥

@@ -1,0 +1,23 @@
+We have escaped with our lives
+You can't catch us now so don't try
+To Professor Cammy, we will be back to exact our revenge
+To you kind developer, thank you for not using your mouse
+Your bumbling attempt to use keyboard shortcuts gave us the time to escape
+As a parting gift open up your keyboard shortcuts file (⇧⌘P + search for keyboard shortcuts)
+You can add custom key bindings here to speed yourself up
+I have these in there
+[
+  {
+    "key": "cmd+k",
+    "command": "workbench.action.terminal.focus" // focus terminal
+  },
+  {
+    "key": "cmd+k",
+    "command": "workbench.action.focusActiveEditorGroup", // focus back to code if on terminal
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+n",
+    "command": "explorer.newFile" // create new file in explorer
+  }
+]

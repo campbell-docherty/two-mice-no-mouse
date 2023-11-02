@@ -1,7 +1,8 @@
 // Try to grab this whole line with ⌘L
 
 // Copy and paste this line by pressing ⌘C + ⌘V
-// Delete me with ⌘⌫ or ⌘X to cut me
+// Copy and paste this line by pressing ⌘C + ⌘V
+// Delete me with ⌘⌫ at the end of the line or ⌘X to cut me from anywhere on the line
 
 // This line is long to read, jump to the end with ⌘→. This line is a super long line and you have to add some more text to the end of it, it's quite long to move your cursor all the way along the line so that you can read the end. Hey, have a nice day :)
 

@@ -13,10 +13,14 @@ A lot of the commands you will need are in the `hints.json` file.
 
 Navigate there now and have a look, then back here for the next step.
 
-## Step 3
+## Step 3 (Optional and you can use your mouse for this)
 
-Open the terminal and run yarn.
-Close the terminal again, you won't need it for a little bit.
+- Open an external terminal
+- Run `nvm use` and then `yarn`
+- Permit your terminal to track mouse clicks `System Settings > Privacy & Security > Accessibility` and flip `Terminal` on
+- Run `yarn click-count`
+
+## Step 4
 
 Go to the `firstEyeWitness.ts` file (for an extra challenge, try to navigate using your file explorer).
 
@@ -32,8 +36,8 @@ There are some keyboard shortcuts here but also a guide on how to setup a keymap
 
 I would strongly recommend setting up a keymap to VSCode keys or this will be difficult:
 
-- cmd, to open up the settings
+- `cmd,` to open up the settings
 - Search for keymap
 - Click get more keymaps
 - Search for VSCode Keymap and install it
-- Head back to step 2 and you should now be able to select the VSCode keymap
+- Head back to step 2 and you should now be able to select the VSCode (macOS) keymap

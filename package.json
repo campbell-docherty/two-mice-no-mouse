@@ -4,10 +4,12 @@
   "devDependencies": {
     "@babel/core": "^7.22.10",
     "@babel/preset-env": "^7.22.10",
+    "iohook": "^0.9.3",
     "prettier": "3.0.1"
   },
   "scripts": {
-    "format": " prettier . --write"
+    "format": " prettier . --write",
+    "click-count": "node ./scripts/count-clicks.js"
   },
   "dependencies": {}
 }

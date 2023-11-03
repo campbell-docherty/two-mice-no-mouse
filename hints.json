@@ -20,9 +20,17 @@
       "mac": "cmd+p"
     }
   },
-  "Open file explorer": {
+  "Focus file explorer": {
     "vscode": {
       "mac": "⌘⇧E"
+    },
+    "jetbrains with vscode keymap": {
+      "mac": "escape"
+    }
+  },
+  "Toggle explorer": {
+    "vscode": {
+      "mac": "⌘B"
     }
   },
   "Open file from file explorer": {
@@ -69,6 +77,16 @@
   "Duplicate cursor": {
     "vscode": {
       "mac": "⌥⌘↑/↓"
+    }
+  },
+  "Tab between files": {
+    "vscode": {
+      "mac": "⌃tab"
+    }
+  },
+  "delete current line": {
+    "vscode": {
+      "mac": "⌘⇧K"
     }
   }
 }

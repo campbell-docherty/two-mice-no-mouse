@@ -455,7 +455,7 @@ import fs from "fs";
 const file_path = "src/manifesto.txt";
 
 const garden = () => {
-  // throw new Error("Lost in the weeds"); // delete me to read the manifesto
+  throw new Error("Lost in the weeds"); // delete me to read the manifesto
   fs.readFile(file_path, "utf8", (err, data) => {
     if (err) {
       console.error(err);

@@ -22,7 +22,7 @@ Navigate there now and have a look, then back here for the next step.
 
 ## Step 4
 
-Go to the `firstEyeWitness.ts` file (for an extra challenge, try to navigate using your file explorer).
+Go to the `firstEyeWitness.js` file (for an extra challenge, try to navigate using your file explorer).
 
 ## Additional help
 
